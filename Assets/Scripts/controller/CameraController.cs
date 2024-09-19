@@ -49,7 +49,7 @@ public class CameraController : MonoBehaviour
     {
         Vector3 vectorRote = new Vector3(Input.GetAxis("Mouse Y") * -1, Input.GetAxis("Mouse X"), 0);
         Vector3 vt = _cameraMain.transform.localRotation.eulerAngles;
-        vt += vectorRote * _speetRote * Time.deltaTime * 25;
+        vt += vectorRote * _speetRote * Time.deltaTime * 20;
         _cameraMain.transform.rotation = Quaternion.Euler(vt);
     }
 

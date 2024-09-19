@@ -68,8 +68,10 @@ public class SelectObject : MonoBehaviour
             Vector3 vectorMove = new Vector3(Input.GetAxis("Mouse X"), Input.GetAxis("Mouse Y"), 0);
             if (Input.GetKey(KeyCode.R))
             {
-                selectedObject.transform.Rotate(CameraController.instance.transform.up, -vectorMove.x * CameraController.instance._speetRote * Time.deltaTime * 100, Space.World);
-                selectedObject.transform.Rotate(CameraController.instance.transform.right, vectorMove.y * CameraController.instance._speetRote * Time.deltaTime * 100, Space.World);
+                Vector3 boundsCenter = selectedObject.GetComponent<Collider>().bounds.center;
+                selectedObject.transform.RotateAround(boundsCenter, CameraController.instance.transform.up, -vectorMove.x * CameraController.instance._speetRote * Time.deltaTime * 100);
+                selectedObject.transform.RotateAround(boundsCenter, CameraController.instance.transform.right, vectorMove.y * CameraController.instance._speetRote * Time.deltaTime * 100);
+
                 mathVector3(_uiRote, selectedObject.transform.eulerAngles);
             }
             else
