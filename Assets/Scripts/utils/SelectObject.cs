@@ -1,6 +1,5 @@
-using Newtonsoft.Json.Linq;
 using System.Collections.Generic;
-using System.Threading;
+using System.Linq;
 using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
@@ -16,6 +15,7 @@ public class SelectObject : MonoBehaviour
     private Ray ray;
     private RaycastHit hit;
     private List<Outline> _listObject;
+    private List<Vector3> _startPos = new List<Vector3>(), _startRote = new List<Vector3>();
 
     private void Start()
     {
@@ -24,7 +24,16 @@ public class SelectObject : MonoBehaviour
              _checkbox.isCheck = !_checkbox.isCheck;
              this.ChangeActiveObject(_checkbox.isCheck);
          });
-        _listObject = new List<Outline> (GameObject.FindObjectsOfType<Outline>());
+        _listObject = GameObject.FindObjectsOfType<Outline>().ToList();
+        foreach (Outline i in _listObject)
+        {
+            try
+            {
+                _startPos.Add(i.transform.localPosition);
+                _startRote.Add(i.transform.eulerAngles);
+            }
+            catch { }
+        }
         RenderList();
     }
 
@@ -68,8 +77,13 @@ public class SelectObject : MonoBehaviour
                 Vector3 camRight = CameraController.instance._cameraMain.transform.right.normalized;
                 Vector3 camUp = CameraController.instance._cameraMain.transform.up.normalized;
                 Vector3 cameraMotionExtend = vectorMove.x * camRight + vectorMove.y * camUp;
-
-                selectedObject.transform.Translate(cameraMotionExtend * CameraController.instance._speetMove * Time.deltaTime * 8, Space.World);
+                float rateZoom = 0.1f;
+                try
+                {
+                    rateZoom = CameraController.instance._cameraMain.GetComponentInChildren<Camera>().fieldOfView / 150;
+                }
+                catch { }
+                selectedObject.transform.Translate(cameraMotionExtend * CameraController.instance._speetMove * Time.deltaTime * 8 * rateZoom, Space.World);
             }
         }
 
@@ -105,6 +119,10 @@ public class SelectObject : MonoBehaviour
             temp.GetComponentInChildren<TextMeshProUGUI>().text = i.gameObject.name;
             temp.GetComponent<Button>().onClick.AddListener(() =>
             {
+                if (selectedObject != null && i.gameObject.Equals(selectedObject))
+                {
+                    zoomObject(selectedObject);
+                }
                 sellect(i.gameObject);
             });
             ObjectView obv = temp.GetComponent<ObjectView>();
@@ -131,5 +149,29 @@ public class SelectObject : MonoBehaviour
             uiChoose.GetComponentInChildren<Image>().color = new Color32(255, 0, 0, 130);
         }
         _checkbox.isCheck = selectedObject.activeSelf;
+    }
+
+    void zoomObject(GameObject go)
+    {
+        Bounds bounds = go.GetComponent<Renderer>().bounds;
+        Vector3 scaledSize = bounds.size;
+        float maxSize = Mathf.Max(scaledSize.x, scaledSize.y, scaledSize.z);
+        CameraController.instance._cameraMain.transform.position = bounds.center;
+
+        float fov = 2 * Mathf.Atan((Mathf.Abs(maxSize) * 1.1f / 2) / Mathf.Abs(CameraController.instance._cameraMain.transform.GetChild(0).transform.localPosition.z)) * (180 / Mathf.PI);
+        CameraController.instance._cameraMain.GetComponentInChildren<Camera>().fieldOfView = fov % 60;
+    }
+
+    public void resetAll()
+    {
+        for(int i = 0; i < _listObject.Count; i++)
+        {
+            try
+            {
+                _listObject[i].transform.localPosition = _startPos[i];
+                _listObject[i].transform.eulerAngles = _startRote[i];
+            }
+            catch { }
+        }
     }
 }
