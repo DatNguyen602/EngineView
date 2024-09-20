@@ -10,6 +10,7 @@ public class SelectObject : MonoBehaviour
     [SerializeField] private GameObject _uiPosition, _uiRote, _uiZoom, _uiNameObject;
     [SerializeField] private CheckBox _checkbox;
     [SerializeField] private GameObject _itemList, _content;
+    [SerializeField] private TMP_InputField _inputField;
     private GameObject selectedObject;
     private bool isDragging = false;
     private Ray ray;
@@ -34,7 +35,19 @@ public class SelectObject : MonoBehaviour
             }
             catch { }
         }
-        RenderList();
+        RenderList(_listObject);
+        _inputField.onValueChanged.AddListener(delegate 
+        {
+            if(_inputField.text != "")
+            {
+                List<Outline> lisSearch = _listObject.FindAll(x => x.gameObject.name.Contains(_inputField.text));
+                RenderList(lisSearch);
+            }
+            else
+            {
+                RenderList(_listObject);
+            }
+        });
     }
 
     void Update()
@@ -46,47 +59,55 @@ public class SelectObject : MonoBehaviour
                 ray = Camera.main.ScreenPointToRay(Input.mousePosition);
                 if (Physics.Raycast(ray, out hit))
                 {
-                    sellect(hit.collider.gameObject);
+                    if(hit.collider.gameObject.tag != "ground") sellect(hit.collider.gameObject);
                 }
             }
 
-            if (selectedObject != null)
+            if (selectedObject != null && selectedObject.tag != "ground")
             {
                 mathVector3(_uiPosition, selectedObject.transform.localPosition);
                 mathVector3(_uiRote, selectedObject.transform.eulerAngles);
                 _uiNameObject.transform.GetChild(1).GetComponent<TextMeshProUGUI>().text = selectedObject.name;
                 isDragging = true;
+
+                Vector3 vectorMove = new Vector3(Input.GetAxis("Mouse X"), Input.GetAxis("Mouse Y"), 0);
+                if (Input.GetKey(KeyCode.R))
+                {
+                    Vector3 boundsCenter = selectedObject.GetComponent<Collider>().bounds.center;
+                    if (Input.GetKey(KeyCode.X))
+                    {
+                        selectedObject.transform.RotateAround(boundsCenter, Vector3.up, -vectorMove.x * CameraController.instance._speetRote * Time.deltaTime * 100);
+                    }
+                    else if (Input.GetKey(KeyCode.Y))
+                    {
+                        selectedObject.transform.RotateAround(boundsCenter, Vector3.right, vectorMove.y * CameraController.instance._speetRote * Time.deltaTime * 100);
+                    }
+                    else
+                    {
+                        selectedObject.transform.RotateAround(boundsCenter, CameraController.instance.transform.up, -vectorMove.x * CameraController.instance._speetRote * Time.deltaTime * 100);
+                        selectedObject.transform.RotateAround(boundsCenter, CameraController.instance.transform.right, vectorMove.y * CameraController.instance._speetRote * Time.deltaTime * 100);
+                    }
+
+                    mathVector3(_uiRote, selectedObject.transform.eulerAngles);
+                }
+                else
+                {
+                    Vector3 camRight = CameraController.instance._cameraMain.transform.right.normalized;
+                    Vector3 camUp = CameraController.instance._cameraMain.transform.up.normalized;
+                    Vector3 cameraMotionExtend = vectorMove.x * camRight + vectorMove.y * camUp;
+                    float rateZoom = 0.1f;
+                    try
+                    {
+                        rateZoom = CameraController.instance._cameraMain.GetComponentInChildren<Camera>().fieldOfView / 150;
+                    }
+                    catch { }
+                    selectedObject.transform.Translate(cameraMotionExtend * CameraController.instance._speetMove * Time.deltaTime * 8 * rateZoom, Space.World);
+                }
             }
         }
         if (Input.GetMouseButtonUp(0))
         {
             isDragging = false;
-        }
-
-        if (isDragging && selectedObject != null && selectedObject.tag != "ground" && (!EventSystem.current.IsPointerOverGameObject()))
-        {
-            Vector3 vectorMove = new Vector3(Input.GetAxis("Mouse X"), Input.GetAxis("Mouse Y"), 0);
-            if (Input.GetKey(KeyCode.R))
-            {
-                Vector3 boundsCenter = selectedObject.GetComponent<Collider>().bounds.center;
-                selectedObject.transform.RotateAround(boundsCenter, CameraController.instance.transform.up, -vectorMove.x * CameraController.instance._speetRote * Time.deltaTime * 100);
-                selectedObject.transform.RotateAround(boundsCenter, CameraController.instance.transform.right, vectorMove.y * CameraController.instance._speetRote * Time.deltaTime * 100);
-
-                mathVector3(_uiRote, selectedObject.transform.eulerAngles);
-            }
-            else
-            {
-                Vector3 camRight = CameraController.instance._cameraMain.transform.right.normalized;
-                Vector3 camUp = CameraController.instance._cameraMain.transform.up.normalized;
-                Vector3 cameraMotionExtend = vectorMove.x * camRight + vectorMove.y * camUp;
-                float rateZoom = 0.1f;
-                try
-                {
-                    rateZoom = CameraController.instance._cameraMain.GetComponentInChildren<Camera>().fieldOfView / 150;
-                }
-                catch { }
-                selectedObject.transform.Translate(cameraMotionExtend * CameraController.instance._speetMove * Time.deltaTime * 8 * rateZoom, Space.World);
-            }
         }
 
         _uiZoom.transform.GetChild(1).GetComponent<TextMeshProUGUI>().text = CameraController.instance._cameraMain.GetComponentInChildren<Camera>().fieldOfView.ToString();
@@ -108,13 +129,13 @@ public class SelectObject : MonoBehaviour
         }
     }
 
-    public void RenderList()
+    public void RenderList(List<Outline> listRender)
     {
         for (int i = 0; i < _content.transform.childCount; i++)
         {
             Destroy(_content.transform.GetChild(i).gameObject);
         }
-        foreach(Outline i in _listObject)
+        foreach(Outline i in listRender)
         {
             GameObject temp = Instantiate(_itemList);
             temp.transform.parent = _content.transform;
