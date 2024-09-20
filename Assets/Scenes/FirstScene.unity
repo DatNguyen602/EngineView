@@ -155,7 +155,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -192,7 +192,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -234,7 +234,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -271,7 +271,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -308,7 +308,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -345,7 +345,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -382,7 +382,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -419,7 +419,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -456,7 +456,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -493,7 +493,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -530,7 +530,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -567,7 +567,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -604,7 +604,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -641,7 +641,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -678,7 +678,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -715,7 +715,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -752,7 +752,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -789,7 +789,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -826,7 +826,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -863,7 +863,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1035,7 +1035,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1072,7 +1072,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1109,7 +1109,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1146,7 +1146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1183,7 +1183,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1220,7 +1220,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1392,7 +1392,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1429,7 +1429,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1466,7 +1466,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1503,7 +1503,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1540,7 +1540,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1577,7 +1577,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1614,7 +1614,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1651,7 +1651,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1688,7 +1688,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1725,7 +1725,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1762,7 +1762,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1799,7 +1799,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1836,7 +1836,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1873,7 +1873,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1910,7 +1910,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1947,7 +1947,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -1984,7 +1984,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2021,7 +2021,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2058,7 +2058,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2095,7 +2095,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2132,7 +2132,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2169,7 +2169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2206,7 +2206,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2243,7 +2243,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2280,7 +2280,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2317,7 +2317,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2351,7 +2351,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchorMin.x
@@ -2359,15 +2359,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 380
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 48
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2399,11 +2399,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 200
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -136
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2456,7 +2456,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2493,7 +2493,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2530,7 +2530,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2567,7 +2567,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2604,7 +2604,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2641,7 +2641,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2678,7 +2678,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2715,7 +2715,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2752,7 +2752,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2789,7 +2789,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2826,7 +2826,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2863,7 +2863,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2900,7 +2900,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2937,7 +2937,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -2974,7 +2974,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3011,7 +3011,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3048,7 +3048,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3085,7 +3085,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3122,7 +3122,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3159,7 +3159,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3196,7 +3196,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3233,7 +3233,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3270,7 +3270,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3307,7 +3307,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3344,7 +3344,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3381,7 +3381,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3487,7 +3487,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0.024993187, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3524,7 +3524,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3561,7 +3561,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3598,7 +3598,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3635,7 +3635,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3672,7 +3672,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3709,7 +3709,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3837,7 +3837,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3874,7 +3874,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3911,7 +3911,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3948,7 +3948,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -3985,7 +3985,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4022,7 +4022,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4059,7 +4059,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4096,7 +4096,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4133,7 +4133,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4170,7 +4170,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4207,7 +4207,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4324,7 +4324,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4361,7 +4361,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4398,7 +4398,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4435,7 +4435,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4472,7 +4472,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4637,7 +4637,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4674,7 +4674,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4711,7 +4711,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4748,7 +4748,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4785,7 +4785,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4822,7 +4822,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4859,7 +4859,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4896,7 +4896,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4933,7 +4933,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -4970,7 +4970,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5007,7 +5007,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5044,7 +5044,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5216,7 +5216,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5253,7 +5253,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5290,7 +5290,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5327,7 +5327,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5364,7 +5364,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5401,7 +5401,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5438,7 +5438,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5475,7 +5475,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5512,7 +5512,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5549,7 +5549,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5586,7 +5586,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5623,7 +5623,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5660,7 +5660,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5697,7 +5697,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5734,7 +5734,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5771,7 +5771,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -5808,7 +5808,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6116,7 +6116,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6153,7 +6153,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6190,7 +6190,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6227,7 +6227,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6264,7 +6264,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6301,7 +6301,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6338,7 +6338,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6375,7 +6375,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6412,7 +6412,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6449,7 +6449,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6486,7 +6486,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6523,7 +6523,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6574,7 +6574,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6611,7 +6611,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6648,7 +6648,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6820,7 +6820,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -6857,7 +6857,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7029,7 +7029,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7066,7 +7066,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7103,7 +7103,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7140,7 +7140,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7312,7 +7312,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7349,7 +7349,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7386,7 +7386,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7423,7 +7423,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7460,7 +7460,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7497,7 +7497,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7534,7 +7534,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7571,7 +7571,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7608,7 +7608,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7645,7 +7645,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7682,7 +7682,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7719,7 +7719,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7756,7 +7756,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7793,7 +7793,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7830,7 +7830,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7867,7 +7867,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -7904,7 +7904,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8076,7 +8076,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8152,8 +8152,8 @@ MonoBehaviour:
   m_Padding:
     m_Left: 0
     m_Right: 0
-    m_Top: 0
-    m_Bottom: 0
+    m_Top: 12
+    m_Bottom: 12
   m_ChildAlignment: 1
   m_StartCorner: 0
   m_StartAxis: 0
@@ -8271,7 +8271,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8308,7 +8308,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8345,7 +8345,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8382,7 +8382,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8419,7 +8419,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8456,7 +8456,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8493,7 +8493,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8530,7 +8530,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8567,7 +8567,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8604,7 +8604,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8641,7 +8641,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8678,7 +8678,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8715,7 +8715,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8752,7 +8752,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8789,7 +8789,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8826,7 +8826,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8863,7 +8863,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -8900,7 +8900,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9072,7 +9072,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9109,7 +9109,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9230,7 +9230,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9267,7 +9267,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9304,7 +9304,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9341,7 +9341,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9378,7 +9378,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9492,7 +9492,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9605,7 +9605,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9642,7 +9642,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9679,7 +9679,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9716,7 +9716,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9753,7 +9753,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9790,7 +9790,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9827,7 +9827,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9864,7 +9864,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9901,7 +9901,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9938,7 +9938,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -9975,7 +9975,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10012,7 +10012,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10049,7 +10049,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10086,7 +10086,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10123,7 +10123,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10160,7 +10160,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10197,7 +10197,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10234,7 +10234,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10271,7 +10271,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10308,7 +10308,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10345,7 +10345,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10382,7 +10382,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10419,7 +10419,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10456,7 +10456,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10493,7 +10493,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10530,7 +10530,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10567,7 +10567,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10679,7 +10679,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchorMin.x
@@ -10687,15 +10687,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 380
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 48
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10727,11 +10727,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 200
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -192
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -10919,7 +10919,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10956,7 +10956,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -10993,7 +10993,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11030,7 +11030,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11067,7 +11067,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11104,7 +11104,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11141,7 +11141,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11178,7 +11178,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11215,7 +11215,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11252,7 +11252,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11289,7 +11289,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11326,7 +11326,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11439,7 +11439,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11476,7 +11476,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11513,7 +11513,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11550,7 +11550,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11587,7 +11587,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11624,7 +11624,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11661,7 +11661,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11698,7 +11698,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11735,7 +11735,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -11848,7 +11848,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12019,7 +12019,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12056,7 +12056,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12093,7 +12093,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12130,7 +12130,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12437,7 +12437,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12474,7 +12474,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12511,7 +12511,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12548,7 +12548,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12662,7 +12662,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12699,7 +12699,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12736,7 +12736,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12773,7 +12773,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12810,7 +12810,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12847,7 +12847,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12884,7 +12884,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12921,7 +12921,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12958,7 +12958,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -12995,7 +12995,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13032,7 +13032,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13069,7 +13069,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13106,7 +13106,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13143,7 +13143,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13258,7 +13258,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13295,7 +13295,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13332,7 +13332,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13369,7 +13369,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13406,7 +13406,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13443,7 +13443,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13480,7 +13480,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13517,7 +13517,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13554,7 +13554,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13591,7 +13591,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13628,7 +13628,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13665,7 +13665,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13837,7 +13837,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13874,7 +13874,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -13911,7 +13911,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -14027,7 +14027,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -14064,7 +14064,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -14101,7 +14101,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -14138,7 +14138,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -14387,7 +14387,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -14424,7 +14424,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -14596,7 +14596,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -14633,7 +14633,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -14670,7 +14670,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -14707,7 +14707,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -14881,7 +14881,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -14918,7 +14918,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -14955,7 +14955,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -14992,7 +14992,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15029,7 +15029,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15066,7 +15066,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15103,7 +15103,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15140,7 +15140,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15177,7 +15177,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15214,7 +15214,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15354,7 +15354,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15391,7 +15391,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15428,7 +15428,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15465,7 +15465,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15502,7 +15502,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15539,7 +15539,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15576,7 +15576,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15613,7 +15613,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15650,7 +15650,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15687,7 +15687,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15802,7 +15802,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15927,7 +15927,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -15964,7 +15964,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16001,7 +16001,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16038,7 +16038,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16075,7 +16075,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16149,7 +16149,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16186,7 +16186,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16223,7 +16223,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16260,7 +16260,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16432,7 +16432,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16469,7 +16469,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16506,7 +16506,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16543,7 +16543,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16580,7 +16580,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16617,7 +16617,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16654,7 +16654,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16691,7 +16691,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16728,7 +16728,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16765,7 +16765,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16802,7 +16802,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16839,7 +16839,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16876,7 +16876,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -16913,7 +16913,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17058,7 +17058,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17095,7 +17095,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17182,7 +17182,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17219,7 +17219,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17344,7 +17344,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17381,7 +17381,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17418,7 +17418,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17455,7 +17455,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17492,7 +17492,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17529,7 +17529,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17566,7 +17566,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17603,7 +17603,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17640,7 +17640,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17677,7 +17677,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17714,7 +17714,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17751,7 +17751,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17788,7 +17788,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17825,7 +17825,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17862,7 +17862,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17899,7 +17899,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17936,7 +17936,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -17973,7 +17973,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18010,7 +18010,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18047,7 +18047,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18084,7 +18084,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18121,7 +18121,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18158,7 +18158,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18195,7 +18195,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18232,7 +18232,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18404,7 +18404,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18441,7 +18441,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18478,7 +18478,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18515,7 +18515,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18552,7 +18552,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18696,7 +18696,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18733,7 +18733,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18770,7 +18770,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18807,7 +18807,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18844,7 +18844,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18881,7 +18881,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18918,7 +18918,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -18955,7 +18955,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19072,7 +19072,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19109,7 +19109,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19146,7 +19146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19183,7 +19183,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19220,7 +19220,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19257,7 +19257,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19294,7 +19294,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19331,7 +19331,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19368,7 +19368,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19405,7 +19405,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19442,7 +19442,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19479,7 +19479,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19516,7 +19516,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19553,7 +19553,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19590,7 +19590,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19627,7 +19627,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19664,7 +19664,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19701,7 +19701,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19738,7 +19738,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19775,7 +19775,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19812,7 +19812,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19849,7 +19849,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19886,7 +19886,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -19920,7 +19920,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchorMin.x
@@ -19928,15 +19928,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 380
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 48
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19968,11 +19968,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 200
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -80
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -20025,7 +20025,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -20062,7 +20062,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -20099,7 +20099,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -20136,7 +20136,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -20173,7 +20173,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -20210,7 +20210,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -20247,7 +20247,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -20284,7 +20284,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -20321,7 +20321,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -20358,7 +20358,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -20395,7 +20395,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineColor: {r: 0, g: 1, b: 0, a: 1}
   outlineWidth: 2
   precomputeOutline: 0
   bakeKeys: []
@@ -20429,7 +20429,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchorMin.x
@@ -20437,15 +20437,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 380
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 48
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20477,11 +20477,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 200
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -24
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1579072908996297705, guid: 30422611685cf9d4698b4940ba54eb00, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
