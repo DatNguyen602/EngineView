@@ -1,3 +1,4 @@
+using Newtonsoft.Json.Linq;
 using System.Collections.Generic;
 using System.Linq;
 using TMPro;
@@ -47,6 +48,10 @@ public class SelectObject : MonoBehaviour
             {
                 RenderList(_listObject);
             }
+        });
+        _uiZoom.transform.GetChild(2).GetComponent<Slider>().onValueChanged.AddListener(delegate
+        {
+            CameraController.instance._cameraMain.GetComponentInChildren<Camera>().fieldOfView = _uiZoom.transform.GetChild(2).GetComponent<Slider>().value;
         });
     }
 
